@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-affix",
+        "scope": null,
+        "escapedName": "vue-affix",
+        "name": "vue-affix",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Administrator"
+    ]
+  ],
+  "_from": "vue-affix@latest",
+  "_id": "vue-affix@0.0.2",
+  "_inCache": true,
+  "_location": "/vue-affix",
+  "_nodeVersion": "6.2.0",
+  "_npmUser": {},
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-affix",
+    "scope": null,
+    "escapedName": "vue-affix",
+    "name": "vue-affix",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://r.fecoder.cn/vue-affix/-/vue-affix-0.0.2.tgz",
+  "_shasum": "c94b39d2f93732cf49a31a661d67b67d833561e8",
+  "_shrinkwrap": null,
+  "_spec": "vue-affix",
+  "_where": "C:\\Users\\Administrator",
+  "author": {
+    "name": "helloLaoYang"
+  },
+  "bugs": {
+    "url": "https://github.com/helloLaoYang/affix-component/issues"
+  },
+  "dependencies": {},
+  "description": "vue.js@2.x affix component",
+  "devDependencies": {},
+  "dist": {
+    "shasum": "c94b39d2f93732cf49a31a661d67b67d833561e8",
+    "tarball": "http://r.fecoder.cn/vue-affix/-/vue-affix-0.0.2.tgz"
+  },
+  "gitHead": "acd9f6ee4b1a8660d0f295016a4d8d7331bb6d65",
+  "homepage": "https://github.com/helloLaoYang/affix-component#readme",
+  "keywords": [
+    "affix",
+    "vue.js",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vue-affix",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloLaoYang/affix-component.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
